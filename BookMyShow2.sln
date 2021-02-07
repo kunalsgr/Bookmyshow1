@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMyShow2", "BookMyShow2.csproj", "{C1197A50-4FE2-4A5D-9381-B05CE28DB521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModels", "..\Models\DataModels.csproj", "{61E33DC0-4784-420C-A44C-26118878535C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreModels", "..\CoreModels\CoreModels.csproj", "{B48EE563-F97C-4472-BC8B-C7E64C25731E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1197A50-4FE2-4A5D-9381-B05CE28DB521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1197A50-4FE2-4A5D-9381-B05CE28DB521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1197A50-4FE2-4A5D-9381-B05CE28DB521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1197A50-4FE2-4A5D-9381-B05CE28DB521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E33DC0-4784-420C-A44C-26118878535C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E33DC0-4784-420C-A44C-26118878535C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E33DC0-4784-420C-A44C-26118878535C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E33DC0-4784-420C-A44C-26118878535C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48EE563-F97C-4472-BC8B-C7E64C25731E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48EE563-F97C-4472-BC8B-C7E64C25731E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48EE563-F97C-4472-BC8B-C7E64C25731E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48EE563-F97C-4472-BC8B-C7E64C25731E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {835487C1-7A31-4B37-B62C-C545709723E7}
+	EndGlobalSection
+EndGlobal
